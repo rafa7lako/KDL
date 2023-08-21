@@ -1,0 +1,139 @@
+.regal {
+	background-color: #000000;
+	border-radius: 8px;
+	height: 168px;
+	left: 551px;
+	opacity: 0.8;
+	position: absolute;
+	top: 217px;
+	width: 872px;
+}
+
+.regals {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 110px;
+	left: 18px;
+
+	top: 30px;
+	width: 836px;
+}
+
+.regal-level-2 {
+	height: 24px;
+	left: 0;
+	position: absolute;
+	top: 28px;
+	width: 76px;
+}
+
+.regal-level-3 {
+	height: 24px;
+	left: 0;
+	position: absolute;
+	top: 56px;
+	width: 76px;
+}
+
+.regal-level-4 {
+	height: 24px;
+	left: 0;
+	position: absolute;
+	top: 84px;
+	width: 76px;
+}
+
+.regal-solo-2 {
+	height: 108px;
+	left: 95px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
+
+.rectangle-box-5 {
+	background-color: #d9d9d9;
+	border-radius: 8px;
+	height: 24px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 24px;
+}
+
+.rectangle-box-6 {
+	background-color: #d9d9d9;
+	border-radius: 8px;
+	height: 24px;
+	left: 26px;
+	position: absolute;
+	top: 0;
+	width: 24px;
+}
+
+.rectangle-box-7 {
+	background-color: #d9d9d9;
+	border-radius: 8px;
+	height: 24px;
+	left: 52px;
+	position: absolute;
+	top: 0;
+	width: 24px;
+}
+
+.regal-solo-3 {
+	height: 108px;
+	left: 190px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
+
+.regal-solo-4 {
+	height: 108px;
+	left: 285px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
+
+.regal-solo-5 {
+	height: 108px;
+	left: 380px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
+
+.regal-solo-6 {
+	height: 108px;
+	left: 475px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
+
+.regal-solo-7 {
+	height: 108px;
+	left: 570px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
+
+.regal-solo-8 {
+	height: 108px;
+	left: 665px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
+
+.regal-solo-9 {
+	height: 108px;
+	left: 760px;
+	position: absolute;
+	top: 2px;
+	width: 76px;
+}
