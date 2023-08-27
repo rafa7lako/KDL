@@ -1,20 +1,21 @@
 import React from "react";
 import styles from "./Regal.module.css";
+
 import RegalSolo from "./RegalSolo/RegalSolo";
 
 const Regal = () => {
 	return (
 		<div className={styles.regal}>
 			<div className={styles.regals}>
-				<RegalSolo />
-				<RegalSolo />
-				<RegalSolo />
-				<RegalSolo />
-				<RegalSolo />
-				<RegalSolo />
-				<RegalSolo />
-				<RegalSolo />
-				<RegalSolo />
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/>
+				<RegalSolo numbersRange={'1 do 10'}/> 
 			</div>
 		</div>
 	);

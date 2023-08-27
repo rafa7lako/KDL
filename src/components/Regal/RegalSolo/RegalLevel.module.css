@@ -1,8 +1,9 @@
 .regal-level {
-	display: flex;justify-content: center;
+	display: flex;
+	justify-content: space-between;
 	align-items: center;
+	margin: 0.1em;
 	height: 24px;
-	
+
 	width: 76px;
 }
-
